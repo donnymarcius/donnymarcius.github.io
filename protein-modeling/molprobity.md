@@ -1,2 +1,3 @@
 test:
-![](./svg/input.svg)
+[](./svg/input.svg)
+<img src="./svg/input.svg">
