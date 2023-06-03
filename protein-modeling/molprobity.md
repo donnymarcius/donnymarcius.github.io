@@ -2,7 +2,7 @@
 
 Steps:
 1. Open [MolProbity Server](http://molprobity.biochem.duke.edu/).
-2. Upload the protein PDB file by click <img scr="./img/choose-file.jpg" height="100"> then click [](./img/upload.jpg | height=50px).
+2. Upload the protein PDB file by click <img scr="./img/choose-file.jpg" width="100"> then click [](./img/upload.jpg | height=50px).
 3. Wait until the PDB file succesfully uploaded then click ![](./img/continue.jpg).
 4. In **Currently working on:** dropdown menu, change the option to **File (modified) uploaded by user** not the ***trimmed*** one, then click ![](./img/analyze.jpg)<u>Analyze all-atom contacts and geometry</u>.
 5. Choose the necessary analysis or keep it default and scroll to the end of the site and click ![](./img/run.jpg).
