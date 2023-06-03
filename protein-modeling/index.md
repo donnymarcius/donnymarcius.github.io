@@ -6,12 +6,12 @@
 2. [Tertiary structure (2D) validation](validation.md).
     *(gambar protein zoom in ke phi/psi trus panah ke rama plot)*
 
-    <details>
+    <details open>
     <summary>Table of Content</summary>
 
-    - [Using MolProbity Server](https://github.com/donnymarcius/donnymarcius.github.io/blob/main/protein-modeling/validation.md#protein-tertiary-structure-validation-using-molprobity).
-    - [Using SAVESv6.0](https://github.com/donnymarcius/donnymarcius.github.io/blob/main/protein-modeling/validation.md#protein-tertiary-structure-validation-using-savesv60).
-    - [Using DeepUMQA](https://github.com/donnymarcius/donnymarcius.github.io/blob/main/protein-modeling/validation.md#protein-tertiary-structure-validation-using-deepumqa).
+    * [Using MolProbity Server](https://github.com/donnymarcius/donnymarcius.github.io/blob/main/protein-modeling/validation.md#protein-tertiary-structure-validation-using-molprobity).
+    * [Using SAVESv6.0](https://github.com/donnymarcius/donnymarcius.github.io/blob/main/protein-modeling/validation.md#protein-tertiary-structure-validation-using-savesv60).
+    * [Using DeepUMQA](https://github.com/donnymarcius/donnymarcius.github.io/blob/main/protein-modeling/validation.md#protein-tertiary-structure-validation-using-deepumqa).
 
     </details>
 
