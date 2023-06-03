@@ -9,9 +9,9 @@
     <details>
     <summary>Table of Content</summary>
 
-    - [Using MolProbity Server]().
-    - [Using SAVESv6.0]().
-    - [Using DeepUMQA]().
+    - [Using MolProbity Server](https://github.com/donnymarcius/donnymarcius.github.io/blob/main/protein-modeling/validation.md#protein-tertiary-structure-validation-using-molprobity).
+    - [Using SAVESv6.0](https://github.com/donnymarcius/donnymarcius.github.io/blob/main/protein-modeling/validation.md#protein-tertiary-structure-validation-using-savesv60).
+    - [Using DeepUMQA](https://github.com/donnymarcius/donnymarcius.github.io/blob/main/protein-modeling/validation.md#protein-tertiary-structure-validation-using-deepumqa).
 
     </details>
 
