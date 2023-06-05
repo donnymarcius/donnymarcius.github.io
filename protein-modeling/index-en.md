@@ -3,7 +3,7 @@
 1. Tertiary structure (3D) modeling.
     *(gambar sekuens ke 3D)*
 
-2. [Tertiary structure (2D) validation](validation.md).
+2. [Tertiary structure (2D) validation](validation-en.md).
     *(gambar protein zoom in ke phi/psi trus panah ke rama plot)*
 
     <details open>
