@@ -1,8 +1,8 @@
 # Molecular Dynamics of Aptamer (DNA/RNA molecules)
 
-1. Siapkan file `Apt.pdb`.
+### 1. Siapkan file `Apt.pdb`.
 
-2. Pembuatan topologi sistem simulasi.
+### 2. Pembuatan topologi sistem simulasi.
 ```
 gmx pdb2gmx -f Apt.pdb -o Apt_processed.gro -ignh -ter
 ```
